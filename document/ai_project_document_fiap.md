@@ -8,11 +8,11 @@
 
 #### Nomes dos integrantes do grupo
 
-- Leandro Tenório
-- _Integrante 2_
-- _Integrante 3_
-- _Integrante 4_
-- _Integrante 5_
+- Pedro Henrique Lima Schneider — RM 573999
+- Leandro Tenório da Silva — RM 572083
+- Diego Alexandre Lemos Nóbrega — RM 572085
+- João Pedro Lurovschi de Almeida Bessa — RM 570160
+- Nícolas Xavier Costa — RM 570336
 
 
 ## Sumário

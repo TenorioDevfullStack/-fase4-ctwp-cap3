@@ -13,11 +13,11 @@
 > _Preencha com o nome do seu grupo._
 
 ## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/company/inova-fusca">Leandro Tenório</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Pedro Henrique Lima Schneider — RM 573999</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Leandro Tenório da Silva — RM 572083</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Diego Alexandre Lemos Nóbrega — RM 572085</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">João Pedro Lurovschi de Almeida Bessa — RM 570160</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Nícolas Xavier Costa — RM 570336</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a)

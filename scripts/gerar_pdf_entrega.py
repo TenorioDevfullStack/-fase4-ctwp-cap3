@@ -34,9 +34,11 @@ try:
 except Exception as e:
     print("logo nao carregada:", e)
 
-def txt(y, s, size=11, weight="normal", color="black", style="normal", x=0.5, ha="center"):
-    ax.text(x, y, s, fontsize=size, fontweight=weight, color=color,
-            style=style, ha=ha, va="center", transform=ax.transAxes, wrap=True)
+def txt(y, s, size=11, weight="normal", color="black", style="normal",
+        x=0.5, ha="center", url=None):
+    return ax.text(x, y, s, fontsize=size, fontweight=weight, color=color,
+                   style=style, ha=ha, va="center", transform=ax.transAxes,
+                   wrap=True, url=url)
 
 # Cabecalho institucional
 txt(0.835, "FIAP — Faculdade de Informática e Administração Paulista",
@@ -70,7 +72,7 @@ for nome, rm in integrantes:
 y -= 0.030
 txt(y, "Repositório do projeto (GitHub)", size=13, weight="bold", color=COR)
 y -= 0.040
-txt(y, REPO, size=11.5, color="#0645AD", weight="bold")
+txt(y, REPO, size=11.5, color="#0645AD", weight="bold", url=REPO)
 y -= 0.028
 txt(y, "Repositório público — código-fonte, notebook executado e documentação.",
     size=9.5, style="italic", color="#555555")
